@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libdb_viewer.so -o libdb_viewer.so CMakeFiles/db_viewer.dir/db_viewer_autogen/mocs_compilation.cpp.o CMakeFiles/db_viewer.dir/dbwidget.cpp.o  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.2 /usr/lib/x86_64-linux-gnu/libQt5Sql.so.5.15.2 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.2 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.2 

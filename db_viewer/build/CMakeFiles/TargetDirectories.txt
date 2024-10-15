@@ -1,0 +1,4 @@
+/home/user/for_db_widget/db_viewer/build/CMakeFiles/rebuild_cache.dir
+/home/user/for_db_widget/db_viewer/build/CMakeFiles/edit_cache.dir
+/home/user/for_db_widget/db_viewer/build/CMakeFiles/db_viewer.dir
+/home/user/for_db_widget/db_viewer/build/CMakeFiles/db_viewer_autogen.dir
