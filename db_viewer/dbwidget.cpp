@@ -153,7 +153,6 @@ void DbWidget::on_table_btn_clicked()
     QPushButton* pushedBtn = qobject_cast<QPushButton*>(sender());
     if (pushedBtn){
         QString tableName = pushedBtn->text();
-        delete tableModel;
 
         tableModel = new QSqlTableModel(this, db);
         tableModel->setTable(tableName);
